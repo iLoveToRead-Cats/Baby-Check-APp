@@ -1,0 +1,46 @@
+#status
+{
+    margin-top: 17px;
+font-size: 17px;
+background:rgb(119, 0, 73);
+color: white;
+border-color: white;
+border-width: 3px;
+border-radius: 20px;
+}
+
+#check {
+    margin-top: 17px;
+font-size: 17px;
+background:rgb(76, 21, 139);
+color: white;
+border-color: white;
+border-width: 3px;
+border-radius: 20px;
+}
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    width: 75%;
+    font-size: 30px;
+    box-shadow: 5px 5px 18px black;
+    background:rgba(185, 11, 112, 0.418);
+    color: white;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 20px;
+border-width: 3px;
+
+}
+
+canvas {
+    box-shadow: 10px 10px 10px black;
+    margin-top: 60;
+    border-color: white;
+border-width: 3px;
+border-radius: 20px;
+border-style: solid;
+}
